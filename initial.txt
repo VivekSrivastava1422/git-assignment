@@ -1,1 +1,2 @@
 Initial content
+add a new line
